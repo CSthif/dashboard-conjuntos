@@ -71,6 +71,8 @@ Los datos contenidos en el archivo CSV son de ejemplo y fueron creados
 
 
 **Sthif Arroyo**  
+
 **Allan Rodríguez**
+
 **Juan Carlos Cruz**
 Curso: Lógica y Matemática Básica
