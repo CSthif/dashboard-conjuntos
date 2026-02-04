@@ -65,8 +65,6 @@ Los datos contenidos en el archivo CSV son de ejemplo y fueron creados
 ##  Tecnologías utilizadas
 
 - HTML5
-- JavaScript
-- Tailwind CSS
 - GitHub Pages
 
 ---
